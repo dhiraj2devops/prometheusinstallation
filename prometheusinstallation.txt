@@ -1,4 +1,4 @@
-# prometheusinstallation
+# prometheus_installation
 
 - copy these all lines and execute as one command
 - ------------------------------------------------------
